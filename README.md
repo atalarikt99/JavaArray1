@@ -1,0 +1,5 @@
+Array1: ![Screenshot hasil Array1](https://s23.postimg.org/woarjfnob/Hasil_Array1.png)
+ArrayHari: ![Screenshot hasil ArrayHari](https://s23.postimg.org/dyis2ouxn/Hasil_Array_Hari.png)
+Array2: ![Screenshot hasil Array2](https://s23.postimg.org/h43dswdjv/Hasil_Array2.png)
+testarraydua: ![Screenshot hasil testarraydua](https://s23.postimg.org/5vklrdacb/Hasil_testarraydua.png)
+Pencarian_Sederhana_naik: ![Screenshot hasil Pencarian_Sederhana_naik](https://s23.postimg.org/ilou4giaj/Hasil_Pencarian_Sederhana_naik.png)
